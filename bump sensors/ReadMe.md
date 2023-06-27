@@ -26,3 +26,5 @@ Force on the bump sensors is now being calculated rather than guessed. Working i
 - constant, c = F_thresh/t_thresh = 1700 kgms<sup>-3</sup>.
 
 
+While the files are heavily commented to maximise readability, please feel free to contact Finlo Heath with any questions at: [zy22013@bristol.ac.uk](mailto:zy22013@bristol.ac.uk) or [tom_rowland@outlook.com](mailto:tom_rowland@outlook.com)
+
